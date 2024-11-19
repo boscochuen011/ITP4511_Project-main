@@ -1,0 +1,27 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 2024年5月2日, 下午6:21:50
+    Author     : boscochuen
+*/
+
+/* 增強導航欄的基本樣式 */
+.navbar {
+    background-color: #0056b3; /* 更深的藍色背景 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 添加一點陰影效果 */
+}
+
+.navbar-brand img {
+    height: 50px; /* 調整 logo 的大小 */
+}
+
+.navbar-light .navbar-brand {
+    color: #ffffff; /* 標題文字顏色 */
+}
+
+.navbar-light .navbar-brand:hover {
+    color: #cce5ff; /* 鼠標懸停時的顏色 */
+}
+
